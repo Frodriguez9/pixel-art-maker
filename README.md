@@ -1,18 +1,21 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+This was the last project of my Intro to Programming Nanodegree with Udacity.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Udacity provided the HTML and CSS code, while I was tasked to develop the JavaScript
+portion of the project. 
 
-## Instructions
+## This project demonstrated my ability to:
 
-To get started, open `designs.js` and start building out the app's functionality.
+- Use JavaSript to alter HTML and CSS Coding.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+- Demonstrate my understanding of the DOM and how to manipulate Nodes and Elements.
 
-## Contributing
+- Use Event Listeners to triger actions.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# pixel-art-maker
-# pixel-art-maker
+- Create algorithms to successfully run the program without crashing.
+
+
+## Note:
+
+For specific, detailed instructions of the project, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
