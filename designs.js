@@ -79,5 +79,3 @@ table.addEventListener('click', function(event) {
   const color = document.getElementById('colorPicker');
   td.style.background = color.value;
 });
-
-//Barbara Change
