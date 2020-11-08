@@ -5,8 +5,14 @@
 
 
 //Accessing <form> and selection the submit button
-
-const submit = document.querySelector('input[type ="submit"]');
+const inputs = document.getElementsByTagName('input');
+let submit;
+for (let i=0; i<inputs.length; i++){
+  if (inputs[i].type.toLowerCase() === 'submit') {
+    submit = inputs[i];
+    break;
+  };
+}
 
 
 
